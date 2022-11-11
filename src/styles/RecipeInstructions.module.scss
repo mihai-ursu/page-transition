@@ -1,0 +1,10 @@
+@use "./colors" as *;
+
+.container {
+  background-color: $color-light-gray;
+  min-height: 100vh;
+}
+
+.title {
+  color: $color-dark-gray;
+}
